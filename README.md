@@ -101,7 +101,7 @@ Interactive dashboard for business monitoring:
 - Top products  
 - Region analysis  
 
-![Dashboard](assets/powerbi_dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ---
 ## 📂 Project Structure
